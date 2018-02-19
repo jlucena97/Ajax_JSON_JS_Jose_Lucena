@@ -1,0 +1,53 @@
+ {
+ 	"framework":[
+
+		{
+			"Nombre": "Angular",
+			"URL": "https://angular.io/",
+			"Imagen": "angular.png",
+			"Descripcion": "Angular es un framework MVC que nos permite crear aplicaciones SPA o Single Page Applications"
+		},
+
+		{
+			"Nombre": "React",
+			"URL": "https://reactjs.org/",
+			"Imagen": "react.png",
+			"Descripcion": "Es una biblioteca de JavaScript de código abierto que nos permite crear interfaces con el objetivo de animar al desarrollo de aplicaciones en una sola página"
+		},
+
+		{
+			"Nombre": "Ember",
+			"URL": "https://www.emberjs.com/",
+			"Imagen": "ember.png",
+			"Descripcion": "Ember es framework de código libre que se basa en la arquitectura MVC, que se puede usar junto con JQuery o Handlebars"
+		},
+
+		{
+			"Nombre": "Backbone",
+			"URL": "http://backbonejs.org/",
+			"Imagen": "backbone.png",
+			"Descripcion": "Backbone es un framework de JavaScript que nos permite crear aplicaciones siguiendo el patrón MVC"
+		},
+
+		{
+			"Nombre": "Mercury",
+			"URL": "https://github.com/Raynos/mercury",
+			"Imagen": "mercury.png",
+			"Descripcion": "Mercury es un framework modular para el desarrollar del front-end"
+		},
+
+		{
+			"Nombre": "Vue",
+			"URL": "https://vuejs.org/",
+			"Imagen": "vue.png",
+			"Descripcion": "Vue es un framework progresivo para construir interfaces de usuario, esta diseñado para poder ser adoptado incrementalmente"
+		},
+
+		{
+			"Nombre": "Aurelia",
+			"URL": "http://aurelia.io/",
+			"Imagen": "aurelia.png",
+			"Descripcion": "Framework modular de JavaScript que nos permite desarrollar aplicaciones moviles, escritorio y web"
+		}
+	]
+}
